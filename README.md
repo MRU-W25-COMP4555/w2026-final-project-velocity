@@ -1,4 +1,4 @@
-Velocity - Winter 2026
+# Velocity - Winter 2026 # 
 
 Made by Aarav Shaji and Keegan Hong
 
